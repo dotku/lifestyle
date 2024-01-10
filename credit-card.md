@@ -52,7 +52,7 @@ The following are the credit cards that suggestion you to apply.
     investment could checkout my [finance section](/lifestyle/#/finance).
 
 > ## My Spending and Saving Report 2023
-> Spending: $50,000 + $30,000 + $10,000 + $5,000 + $6,000 + $5,000 = $106,000。
+> Spending: $50,000 + $30,000 + $10,000 + $5,000 + $6,000 + $5,000 = $106,000  
 > Saving: $500 + $600 + $360 + $300 + $300 + $250 = $2310
 
 ## Reference
