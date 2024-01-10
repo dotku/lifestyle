@@ -1,0 +1,2 @@
+* [Home](/)
+* [Debt](debt.md)
