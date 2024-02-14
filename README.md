@@ -12,3 +12,7 @@ Let's get started.
 
 Jay Lin  
 Jan 10, 2024
+
+## Reference
+
+* https://www.sf.gov/find-your-area-median-income-ami-level
