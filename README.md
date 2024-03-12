@@ -5,7 +5,7 @@ I have already created a [business](/business) channel for introduce how you can
 run your business hustles while you have a full time job.
 
 In this channel, I would focusing on how you can improve your lifestyle for 
-sustainable growing. Basically risk control and investment would be the key!
+sustainable growing. Basically Risk Control and Investment would be the key!
 
 Let's get started.
 
