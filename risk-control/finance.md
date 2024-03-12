@@ -1,4 +1,4 @@
-# Credit Card
+# Finance
 
 The following are the credit cards that suggestion you to apply.
 
