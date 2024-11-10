@@ -17,4 +17,4 @@ Checkout the best way to use your credit for most of saving.
 | Grocery | [Blue Cash Everyday® Card](https://www.americanexpress.com/us/credit-cards/card/blue-cash-everyday) | 3% | $0 | |
 | Hotel/Hilton | [Hilton Honors American Express Card](https://americanexpress.com/en-us/referral/hilton-honors?ref=WEIJILNcUj&xl=cp01) | x7 | $0 |
 
-* Hilton Credit x7 would be about 2%
+* Hilton Credit x7 would be about 2.7%
