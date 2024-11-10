@@ -4,9 +4,9 @@ Checkout the best way to use your credit for most of saving.
 
 | Category | Credit Cards | Cash back | Fee | Note |
 | --- | --- | --- | --- | --- |
+| All | Double | 2% | $0 | If you don't want to count, Chase double is good |
 | Costco | Citi Costco | 2~4% | Costco membership | great for costco shopping |
 | Food | Citi Costco | 3% | Costco Membership | |
-| Everything | Double | 2% | $0 | If you don't want to count, Chase double is good |
 | Category | US Cash Plus | 5% | $0 | Great for utiliy bills with limited category |
 | Gas | Uber Cash | 2~6% | Costco Membership | |
 | Gas | Citi Costco | 4% | Costco Membership | |
