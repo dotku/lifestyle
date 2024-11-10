@@ -8,3 +8,6 @@ Checkout the best way to use your credit for most of saving.
 | Grocery | [Blue Cash Everyday® Card](https://www.americanexpress.com/us/credit-cards/card/blue-cash-everyday) | 3% | $0 | |
 | Everything | Double | 2% | $0 | If you don't want to count, Chase double is good |
 | Category | US Cash Plus | 5% | $0 | Great for utiliy bills with limited category |
+| Costco | Citi Costco | 4% | costco membershi | great for costco shopping |
+| Gas | Citi Costco | 3% | Costco Membership | |
+| Gas | [Blue Cash Preferred® Card](https://americanexpress.com/en-us/referral/blue-cash-preferred-credit-card?ref=WEIJILx4eI&xl=cp108t) | 3% | AMEX |
