@@ -5,6 +5,7 @@ Checkout the best way to use your credit for most of saving.
 | Category | Credit Cards | Cash back | Fee | Note |
 | --- | --- | --- | --- | --- |
 | All | Double | 2% | $0 | If you don't want to count, Chase double is good |
+| Car/Firestone | Firestone Credit Card | 4% | $0 | great for auto service |
 | Category | US Cash Plus | 5% | $0 | Great for utiliy bills with limited category |
 | Costco | Citi Costco | 2~4% | Costco membership | great for costco shopping |
 | Food | [US Bank Altitude Go](https://www.usbank.com/credit-cards/altitude-go-visa-signature-credit-card.html)| 4% | $0 | |
