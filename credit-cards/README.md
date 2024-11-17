@@ -17,6 +17,7 @@ Checkout the best way to use your credit for most of saving.
 | Grocery | [Blue Cash Preferred® Card](https://americanexpress.com/en-us/referral/blue-cash-preferred-credit-card?ref=WEIJILx4eI&xl=cp108t) | 6% | $75 | Spend at least $2500/yr, otherwise, could just use Cash Everyday with $0 annual fee |
 | Grocery | [Blue Cash Everyday® Card](https://www.americanexpress.com/us/credit-cards/card/blue-cash-everyday) | 3% | $0 | |
 | Hotel/Hilton | [Hilton Honors American Express Card](https://americanexpress.com/en-us/referral/hilton-honors?ref=WEIJILNcUj&xl=cp01) | x7 (2.7%) | $0 | |
+| Hotel | Capital One QuickSilver | 5% | $0 | |
 | Travel | Capital One Venture X Rewards Credit Card | 2~10 miles | $395 | |
 | Travel | Chase Sapphire Preferred® Card | x2~5 | $95 | |
 | Travel | One Key™ Card | 1.5~3% | $0 | |
