@@ -15,6 +15,7 @@
 | DocFly | $3.99/mo | very limited feature |
 | I Love PDF | $4/mo | |
 | PDF Candy | $48/yr | Free online PDF editor with something for everyone |
+| PDF-Xchange Editor | $56/yr | |
 | Sejda | $63/yr | |
 | PDF Expert | $79.99/yr | |
 | FormSwifit | $89/yr | | 
