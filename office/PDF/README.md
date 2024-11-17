@@ -8,6 +8,7 @@
 | PDF24 | free | windows only |
 | Collabora Office | $8/life | |
 | EaseUS | $79.95/life | |
+| PDF Extra | $99.99/life | |
 | pdfsimpli | $25/yr | |
 | PDF Escape | $36/yr | |
 | DocFly | $3.99/mo | very limited feature |
