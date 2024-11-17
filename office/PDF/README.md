@@ -28,6 +28,7 @@
 | foxit PDF | $159.99/yr | |
 | Canva PDF Editor | $14.99/mo | |
 | Adobe Acrobat | $239.88/yr | |
+| PDFGuru | $288/yr | |
 
 ## PDFGear
 
