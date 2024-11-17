@@ -11,4 +11,4 @@
 | PDF Candy | $48/yr | |
 | PDF Expert | $79.99/yr | |
 | Kofax Power PDF | $129/life | |
-| Libre Office | free | |
+| LibreOffice | free | |
