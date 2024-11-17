@@ -3,6 +3,7 @@
 | Name | Price | Note | 
 | --- | --- | --- |
 | LibreOffice | free | |
+| PDF Gear | free | could support LibreOffice format well |
 | Apple Preview | free | limited feature |
 | PDF24 | free | windows only |
 | Collabora Office | $8/life | |
@@ -25,6 +26,10 @@
 | foxit PDF | $159.99/yr | |
 | Canva PDF Editor | $14.99/mo | |
 | Adobe Acrobat | $239.88/yr | |
+
+## PDFGear
+
+<img width="1242" alt="image" src="https://github.com/user-attachments/assets/15965db0-62fe-486f-b2a4-28a675685cdc">
 
 ## PDF24
 
