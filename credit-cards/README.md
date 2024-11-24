@@ -20,6 +20,6 @@ Checkout the best way to use your credit for most of saving.
 | Hotel | Capital One QuickSilver | 5% | $0 | |
 | Travel | Capital One Venture X Rewards Credit Card | 2~10 miles | $395 | |
 | Travel | Chase Sapphire Preferred® Card | x2~5 | $95 | |
-| Travel | [Hilton Honors American Express Card](https://americanexpress.com/en-us/referral/hilton-honors?ref=WEIJILNcUj&xl=cp01) | x7 (2.7%) | $0 | $15.95 on Premium Car Rental Protection Plan up to $75,000 for car, $150,000 for death |
+| Travel | [Hilton Honors American Express Card](https://americanexpress.com/en-us/referral/hilton-honors?ref=WEIJILNcUj&xl=cp01) | x7 (2.7%) | $0 | $15.95 on Premium Car Rental Protection Plan up to $75,000 for car, $150,000 for death, dismemberment for $350,000 |
 | Travel | One Key™ Card | 1.5~3% | $0 | |
 | Travel | One Key+™ Card | 2~3% | $99 | |
