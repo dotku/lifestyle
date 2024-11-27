@@ -11,6 +11,6 @@
 * [Banking](/banking)
   * [checking account](/banking/readme.md)
   * [saving account](/banking/readme.md)
-* [Growing Investment]
-  * [stock](/stock)
-  * [private](/private)
+* [Growing Investment](/investment/)
+  * [stock](/investment/stock)
+  * [private](/investment/private)
