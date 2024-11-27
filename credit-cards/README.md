@@ -1,4 +1,17 @@
-nn# Credit Card
+# Credit Card
+
+## Highlights
+
+* Sofi 2.2% unlimited everything
+* Citi Double 2% unlimited everything
+* American Express Cash/Cash Perferece 买菜卡
+* Costco City 加油/生活用品/买菜(家庭人口多的话，比如 3+ 以上，强烈推荐)
+* USBank Plus 5% Utility/Mobile Service
+* USBank Go x4(~4%) Restaurat
+* Costco City 4% gas/ev charging
+* Citi Custom 5% $500 的周期开销，比如 cloud service
+
+## Data
 
 Checkout the best way to use your credit for most of saving.
 
