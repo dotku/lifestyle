@@ -11,6 +11,10 @@
 * Costco City 4% gas/ev charging
 * Citi Custom 5% $500 的周期开销，比如 cloud service
 
+## Shipping Intro
+
+1. Capital One, $500 spending get $200 return
+
 ## Financing
 
 1. Wells Fargo Reflect Card, 21 mo 0% interest rate
