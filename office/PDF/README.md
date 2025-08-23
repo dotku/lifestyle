@@ -2,7 +2,7 @@
 
 | Name | Price | Note | 
 | --- | --- | --- |
-| LibreOffice | free | PDF won't be able to export as PDF |
+| LibreOffice | free | There won't be save as PDF, but could export as PDF |
 | PDF Gear | free | could support LibreOffice format well |
 | Apple Preview | free | limited feature |
 | PDF24 | free | windows only |
